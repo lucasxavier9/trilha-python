@@ -41,5 +41,3 @@ print('-' * 20)
 print('Eu escolhi: {}'.format(itens[x]))
 print('Você escolheu: {}'.format(itens[jogada]))
 print('-' * 20)
-
-
