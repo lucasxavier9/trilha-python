@@ -10,7 +10,7 @@ sleep(1)
 print('GEN')
 sleep(1)
 print('PO!!!\n')
-if x == 0:
+if x == 0: 
     if jogada == 0:
         print('EMPATAMOS!\n')
     elif jogada == 1:
